@@ -1,1 +1,1 @@
-# repo-exercise
+# Front-end developer capstone project
